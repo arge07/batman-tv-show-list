@@ -1,0 +1,57 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.MainList .List_row {
+  margin-bottom: 5px;
+  list-style-type: none;
+  border: 1px dotted #ddd;
+  width: 750px;
+}
+.MainList .List_row img {
+  max-height: 150px;
+}
+.MainList .List_row a {
+  color: red;
+  cursor: pointer !important;
+  font-size: 18px !important;
+  text-decoration: underline;
+}
+
+.display_none {
+  display: none;
+}
+
+.display_block {
+  display: block;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  margin-bottom: 15px;
+}
+
+li {
+  float: left;
+}
+
+li button {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: #dc3545;
+  border: none;
+  margin-right: 2px;
+}
+
+li button:hover:not(.active) {
+  background-color: #111;
+}
+
+/*# sourceMappingURL=index.css.map */
