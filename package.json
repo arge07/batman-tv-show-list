@@ -19,7 +19,7 @@
     "sass": "^1.22.7",
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.8"
+    "webpack-dev-server": "^3.1.11"
   },
   "main": "webpack-production-config.js",
   "description": "örnek webpack proje yapısı",
